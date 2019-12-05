@@ -9,7 +9,7 @@
 5. Using K-NN algorithm to find the nearest article for the user to predict their relevent interested public wikipedia profiles.
 ```
 No of public profile data = 59071
-profile data is also available in the file ('public_wiki.csv')
+
 
 ```
 ```
